@@ -103,3 +103,7 @@ Caused by: org.springframework.beans.factory.NoSuchBeanDefinitionException: No q
 2021-06-13 22:18:42,072 DEBUG c.e.d.SareetaApplicationTests [main] Running with Spring Boot v2.4.5, Spring v5.3.6
 2021-06-13 22:18:42,073 INFO c.e.d.SareetaApplicationTests [main] No active profile set, falling back to default profiles: default
 2021-06-13 22:18:46,055 INFO c.e.d.SareetaApplicationTests [main] Started SareetaApplicationTests in 4.209 seconds (JVM running for 5.717)
+2021-06-13 22:39:00,384 INFO c.e.d.SareetaApplicationTests [main] Starting SareetaApplicationTests using Java 1.8.0_261 on Vamsis-MacBook-Pro.local with PID 38903 (started by vamsikrishnaathota in /Users/vamsikrishnaathota/Documents/nd035-c4-Security-and-DevOps/starter_code)
+2021-06-13 22:39:00,393 DEBUG c.e.d.SareetaApplicationTests [main] Running with Spring Boot v2.4.5, Spring v5.3.6
+2021-06-13 22:39:00,394 INFO c.e.d.SareetaApplicationTests [main] No active profile set, falling back to default profiles: default
+2021-06-13 22:39:05,892 INFO c.e.d.SareetaApplicationTests [main] Started SareetaApplicationTests in 5.773 seconds (JVM running for 8.067)

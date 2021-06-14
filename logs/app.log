@@ -6,3 +6,9 @@
 2021-06-13 22:19:11,302 INFO c.e.d.c.UserController [http-nio-8080-exec-1] Create User4 Success!
 2021-06-13 22:19:16,766 INFO c.e.d.c.UserController [http-nio-8080-exec-3] User name set with value: User2
 2021-06-13 22:19:16,857 INFO c.e.d.c.UserController [http-nio-8080-exec-3] Create User2 Success!
+2021-06-13 22:39:15,470 INFO c.e.d.SareetaApplication [main] Starting SareetaApplication using Java 1.8.0_261 on Vamsis-MacBook-Pro.local with PID 38925 (/Users/vamsikrishnaathota/Documents/nd035-c4-Security-and-DevOps/starter_code/target/classes started by vamsikrishnaathota in /Users/vamsikrishnaathota/Documents/nd035-c4-Security-and-DevOps)
+2021-06-13 22:39:15,478 DEBUG c.e.d.SareetaApplication [main] Running with Spring Boot v2.4.5, Spring v5.3.6
+2021-06-13 22:39:15,479 INFO c.e.d.SareetaApplication [main] No active profile set, falling back to default profiles: default
+2021-06-13 22:39:19,719 INFO c.e.d.SareetaApplication [main] Started SareetaApplication in 4.68 seconds (JVM running for 6.025)
+2021-06-13 22:39:23,983 INFO c.e.d.c.UserController [http-nio-8080-exec-2] User name set with value: User2
+2021-06-13 22:39:24,153 INFO c.e.d.c.UserController [http-nio-8080-exec-2] Create User2 Success!
