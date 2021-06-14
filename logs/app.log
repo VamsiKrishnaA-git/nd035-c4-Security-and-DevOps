@@ -1,0 +1,8 @@
+2021-06-13 22:18:55,661 INFO c.e.d.SareetaApplication [main] Starting SareetaApplication using Java 15.0.2 on Vamsis-MacBook-Pro.local with PID 38197 (/Users/vamsikrishnaathota/Documents/nd035-c4-Security-and-DevOps/starter_code/target/classes started by vamsikrishnaathota in /Users/vamsikrishnaathota/Documents/nd035-c4-Security-and-DevOps)
+2021-06-13 22:18:55,668 DEBUG c.e.d.SareetaApplication [main] Running with Spring Boot v2.4.5, Spring v5.3.6
+2021-06-13 22:18:55,669 INFO c.e.d.SareetaApplication [main] No active profile set, falling back to default profiles: default
+2021-06-13 22:18:59,188 INFO c.e.d.SareetaApplication [main] Started SareetaApplication in 3.923 seconds (JVM running for 4.839)
+2021-06-13 22:19:11,119 INFO c.e.d.c.UserController [http-nio-8080-exec-1] User name set with value: User4
+2021-06-13 22:19:11,302 INFO c.e.d.c.UserController [http-nio-8080-exec-1] Create User4 Success!
+2021-06-13 22:19:16,766 INFO c.e.d.c.UserController [http-nio-8080-exec-3] User name set with value: User2
+2021-06-13 22:19:16,857 INFO c.e.d.c.UserController [http-nio-8080-exec-3] Create User2 Success!
