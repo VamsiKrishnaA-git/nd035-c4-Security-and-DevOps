@@ -87,3 +87,15 @@ Caused by: org.springframework.beans.factory.NoSuchBeanDefinitionException: No q
 2021-06-13 21:02:50,146 DEBUG c.e.d.SareetaApplicationTests [main] Running with Spring Boot v2.4.5, Spring v5.3.6
 2021-06-13 21:02:50,148 INFO c.e.d.SareetaApplicationTests [main] No active profile set, falling back to default profiles: default
 2021-06-13 21:02:53,538 INFO c.e.d.SareetaApplicationTests [main] Started SareetaApplicationTests in 3.63 seconds (JVM running for 4.913)
+2021-06-13 22:03:45,048 INFO c.e.d.SareetaApplicationTests [main] Starting SareetaApplicationTests using Java 15.0.2 on Vamsis-MacBook-Pro.local with PID 37681 (started by vamsikrishnaathota in /Users/vamsikrishnaathota/Documents/nd035-c4-Security-and-DevOps/starter_code)
+2021-06-13 22:03:45,058 DEBUG c.e.d.SareetaApplicationTests [main] Running with Spring Boot v2.4.5, Spring v5.3.6
+2021-06-13 22:03:45,060 INFO c.e.d.SareetaApplicationTests [main] No active profile set, falling back to default profiles: default
+2021-06-13 22:03:49,398 INFO c.e.d.SareetaApplicationTests [main] Started SareetaApplicationTests in 4.591 seconds (JVM running for 6.409)
+2021-06-13 22:04:18,974 INFO c.e.d.SareetaApplicationTests [main] Starting SareetaApplicationTests using Java 15.0.2 on Vamsis-MacBook-Pro.local with PID 37718 (started by vamsikrishnaathota in /Users/vamsikrishnaathota/Documents/nd035-c4-Security-and-DevOps/starter_code)
+2021-06-13 22:04:18,981 DEBUG c.e.d.SareetaApplicationTests [main] Running with Spring Boot v2.4.5, Spring v5.3.6
+2021-06-13 22:04:18,983 INFO c.e.d.SareetaApplicationTests [main] No active profile set, falling back to default profiles: default
+2021-06-13 22:04:22,334 INFO c.e.d.SareetaApplicationTests [main] Started SareetaApplicationTests in 3.597 seconds (JVM running for 4.934)
+2021-06-13 22:04:51,090 INFO c.e.d.SareetaApplicationTests [main] Starting SareetaApplicationTests using Java 15.0.2 on Vamsis-MacBook-Pro.local with PID 37734 (started by vamsikrishnaathota in /Users/vamsikrishnaathota/Documents/nd035-c4-Security-and-DevOps/starter_code)
+2021-06-13 22:04:51,098 DEBUG c.e.d.SareetaApplicationTests [main] Running with Spring Boot v2.4.5, Spring v5.3.6
+2021-06-13 22:04:51,100 INFO c.e.d.SareetaApplicationTests [main] No active profile set, falling back to default profiles: default
+2021-06-13 22:04:54,742 INFO c.e.d.SareetaApplicationTests [main] Started SareetaApplicationTests in 3.898 seconds (JVM running for 5.15)
